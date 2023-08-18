@@ -1,0 +1,16 @@
+{
+    "require": {
+        "league/route": "^4.0",
+        "league/container": "^3.2",
+        "zendframework/zend-diactoros": "^1.8",
+        "twig/twig": "^2.5",
+        "filp/whoops": "^2.2",
+        "zendframework/zend-httphandlerrunner": "^1.0",
+        "doctrine/orm": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
